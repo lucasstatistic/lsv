@@ -1,0 +1,60 @@
+{
+  "articles": [
+    {
+      "path": "cd.html",
+      "title": "Estatística e Ciência de Dados",
+      "description": "Conceitos e Métodos em Ciência de Dados\n\n<mark>Em construção...<\/mark> \n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\nÍndice\r\n\r\n\r\n\r\nCiência de dados\r\nAprendizado Supervisionado\r\nAprendizado Não Supervisionado\r\nTópicos Adicionais\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-06-12T20:24:34-03:00"
+    },
+    {
+      "path": "curriculo.html",
+      "title": "Lucas Santos Vieira",
+      "description": "Endereço: Rua Aníbal da Silva Garcia, Quadra 14 - Ribeira, Cep: 40.421-020 – Salvador/BA\n\nE-mail: lucasestatistica@hotmail.com \n\nCelular: (79) 9 9866-9108\n",
+      "author": [],
+      "contents": "\r\nApresentação \r\n\r\n\r\nOlá, meu nome é Lucas, sou profissional com formação superior em Estatística. Tenho conhecimento em matemática aplicada, modelagem estatística e interpretação de dados. Estou pronto para contribuir de forma significativas em:.\r\n\r\n\r\n\r\nResolução de problemas: competência em resolver desafios através de análise criteriosa dos dados, fornecendo insights valiosos para orientar a tomada de decisão estratégica;\r\n\r\n\r\nComunicação efetiva: Além de analítico, sou capaz de comunicar resultados de forma clara e concisa para públicos diversos, facilitando a compreensão e a implemetação de recomendações;\r\n\r\n\r\nFoco em qualidade: busco precisão e qualidade em minhas análises estatísticas, garantindo a confiabilidade dos resultados e a relevância das conclusões.\r\n\r\nHabilidade \r\nExperiência em análise estatística:\r\nControle Estatístico de Processo\r\nAprendizado de máquina\r\nMétodos de otimização\r\nModelos de regressão\r\netc.\r\n\r\nQualificções\r\nMicrosoft Office (Excel, Word, Power Point etc)\r\nLiguagem de programação ‘R’ e Python\r\nDashboards etc.\r\n\r\nEducação \r\nUniversidade Federal de Sergipe - UFS\r\nBacharel em Estatística (2017)\r\nSão Cristóvão, Sergipe\r\nMonografia: Previsão de Arrecadação de ICMS E IPVA para Sergipe\r\n\r\nUniversidade Federal da Bahia - UFBA\r\nMestrado em Matemática / Estatística (2024)\r\nSalvador, Bahia\r\n\r\nDissertação: Modelo de Regressão Simplex Multivariado (Inferência, Diagnóstico e Aplicações)\r\n\r\n\r\nExperiência Acadêmica \r\nMonitor\r\nEstatística Computacional - Universidade Federal da Bahia – (UFBA)\r\nSalvador, Bahia\r\n(2023 - 2023)\r\n\r\nMonitor\r\nIntrodução à Estatística - Universidade Federal de Sergipe – (UFS)\r\nSão Cristóvão, Sergipe\r\n(2016 - 2017)\r\n\r\nAssistente de pesquisa\r\n\r\n“Previsão de Arrecadação do ICMS e IPVA para Sergipe” (FAPITEC) - Universidade Federal de Sergipe – (UFS)\r\n\r\nSão Cristóvão, Sergipe\r\n(2016 - 2017)\r\n\r\nBolsista\r\n\r\nPrograma de Apoio do Desenvolvimento da Aprendizagem Profissional (PRODAP) - Universidade Federal de Sergipe – (UFS)\r\n\r\nSão Cristóvão, Sergipe\r\n(2014 - 2015)\r\n\r\nAssistente de pesquisa\r\n\r\nIniciação Tecnológica (IT): “Teste de validação e funcionalidade de recursos de apoio à decisão e avaliação de qualidade do Sistema de Gestão da Produção Jornalística” (SGPJ); Módulo Matriz de Veracidade - Universidade Federal de Sergipe – (UFS)\r\n\r\nSão Cristóvão, Sergipe\r\n(2013 - 2014)\r\n\r\nExperiência profissional \r\nAnalista de Qualidade\r\nOperador de qualidade – R2 Telecomunicações Ltda.\r\nAracaju, Sergipe\r\n2019 - 2020\r\n\r\nAssistente Administrativo PL\r\nEstatística – Sociedade de Educação Tiradentes Ltda.\r\nAracaju, Sergipe\r\n2017 - 2018\r\n\r\nEm suma, as atividades executas nas empresas as quais passei consistiram em elaboração e acompanhamento de indicadores estratégicos, satisfação e qualidade; registro, análise e controle de dados; elaboração de apresentação para reuniões, dentre outras atividades demandadas e comum as atividades administrativas.\r\n\r\n\r\n\r\nÚltima atualização em junho 13, 2024\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-06-13T10:17:16-03:00"
+    },
+    {
+      "path": "estatistica.html",
+      "title": "Estatística e Ciência de Dados",
+      "description": "Conceitos e Métodos em Estatística \n\n<mark>Em construção...<\/mark>\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\nÍndice\r\n\r\n\r\n\r\nEstatística\r\nProbabilidade\r\nInferência\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-06-12T20:26:34-03:00"
+    },
+    {
+      "path": "estcomp.html",
+      "title": "Estatística e Ciência de Dados",
+      "description": "Conceitos e Métodos em Computação Estatística\n\n<mark>Em construção...<\/mark>\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\nÍndice\r\n\r\n\r\n\r\nEstatística Computacional\r\nLinguagem de Programação R\r\nLinguagem de Programação Python\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-06-12T20:25:34-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Lucas Santos Vieira",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Lucas SV\r\n          \r\n          \r\n          Início\r\n          Currículo\r\n          \r\n          \r\n          Estatística\r\n           \r\n          ▾\r\n          \r\n          \r\n          Estatística\r\n          Ciência de Dados\r\n          Estatística Computacional\r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Lucas Santos Vieira\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        Email\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        LinkedIn\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        GitHub\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Currículo Lattes\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n            Sobre\r\n            \r\n            Possui graduação em Estatística pelo Departamento de\r\n            Estatística e Ciências Atuariais da Universidade Federal de\r\n            Sergipe - (DECAT/UFS,\r\n            2017). Mestrado em Matemática com área de concentração\r\n            em Estatística pelo Departamento de Estatística do Instituto\r\n            de Matemática e Estatística da Universidade Federal da Bahia\r\n            - (DEST/UFBA,\r\n            2024).\r\n            \r\n            \r\n            \r\n            Interesses\r\n            \r\n            Probabilidade e Estatística | Regressão e Correlação |\r\n            Modelos de Regressão | Estatística Computacional | Ciência\r\n            de Dados | R | Python | Flexdashboard\r\n            |\r\n            \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Lucas Santos Vieira\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Currículo Lattes\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              Sobre\r\n              \r\n              Possui graduação em Estatística pelo Departamento de\r\n              Estatística e Ciências Atuariais da Universidade Federal\r\n              de Sergipe - (DECAT/UFS,\r\n              2017). Mestrado em Matemática com área de concentração\r\n              em Estatística pelo Departamento de Estatística do\r\n              Instituto de Matemática e Estatística da Universidade\r\n              Federal da Bahia - (DEST/UFBA,\r\n              2024).\r\n              \r\n              \r\n              \r\n              Interesses\r\n              \r\n              Probabilidade e Estatística | Regressão e Correlação |\r\n              Modelos de Regressão | Estatística Computacional | Ciência\r\n              de Dados | R | Python |\r\n              Flexdashboard\r\n              |\r\n              \r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2024-06-13T10:09:30-03:00"
+    },
+    {
+      "path": "stats_001.html",
+      "title": "Toxemia",
+      "description": "Sintomas de toxemia na gravidez\n",
+      "author": [],
+      "contents": "\r\nDescrição\r\n\r\n\r\nBrown et al (1983) forneceram esses dados sobre dois sinais de toxemia, uma condição anormal durante a gravidez caracterizada por pressão alta (hipertensão) e níveis elevados de proteína na urina. Se não forem tratados, tanto a mãe quanto o bebê correm risco de complicações ou morte. O quadro de dados Toxaemia representa 13.384 gestantes em Bradford, Inglaterra, em sua primeira gravidez, que também foram classificadas de acordo com a classe social e o número de cigarros fumados por dia.\r\n\r\n\r\n\r\n\r\n\r\nResumo descritivo\r\n\r\n\r\n\r\nDados\r\n\r\n\r\n\r\n\r\nSintomas por fumar\r\n\r\n\r\n\r\nSintomas por classe social\r\n\r\n\r\n\r\nPreditores\r\n\r\n\r\n\r\nResposta\r\n\r\n\r\n\r\nOdds Ratio\r\nLog de odds ratio para uréia e hipertensão, por classe e fumo:\r\nCigarros\r\nClasse\r\n\r\n\r\n\r\n\r\n0\r\n1.526791\r\n1.4619602\r\n1.5805648\r\n1.3135126\r\n1.003623\r\n1-19\r\n1.071024\r\n0.8640134\r\n1.3736951\r\n1.3426023\r\n1.034754\r\n20+\r\n2.448539\r\n-1.1457908\r\n0.7442513\r\n0.8846854\r\n2.018727\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-06-08T21:46:29-03:00"
+    },
+    {
+      "path": "stats_002.html",
+      "title": "Periódicos Econômicos",
+      "description": "Conjunto de dados de periódicos econômicos\n",
+      "author": [],
+      "contents": "\r\nDescrição dos dados\r\n\r\n\r\nAqui vem o texto…\r\n\r\n\r\n\r\n\r\n\r\nGráficos, Tabelas e Dados\r\n\r\n\r\n\r\nTab 1\r\nTab 2\r\nTab 3\r\nTab 3\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-06-06T12:58:33-03:00"
+    }
+  ],
+  "collections": []
+}
